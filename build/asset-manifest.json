@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.30145701.css",
+    "main.js": "/static/js/main.5fb112df.js",
+    "static/media/01.jpg": "/static/media/01.a7e4066ccbd7b98d00fd.jpg",
+    "static/media/logo.png": "/static/media/logo.28c1544a446d27de9fa7.png",
+    "static/media/imgmokup2.jpg": "/static/media/imgmokup2.ec59fb2cd8538a0d5521.jpg",
+    "static/media/Imagem6.png": "/static/media/Imagem6.6baafc686e5b8ef63745.png",
+    "static/media/herc.jpeg": "/static/media/herc.36f39b8f711c9c4a231a.jpeg",
+    "static/media/Logo Inpulse - Negativo Horizontal Fundo Transparente.png": "/static/media/Logo Inpulse - Negativo Horizontal Fundo Transparente.3901f09384c260094de1.png",
+    "static/media/xalingo.png": "/static/media/xalingo.aba2f1331c7228f24c05.png",
+    "static/media/mokup2.png": "/static/media/mokup2.7e4b37eba261c329fcb6.png",
+    "static/media/exatron.jpeg": "/static/media/exatron.845b11e81ac2010afd79.jpeg",
+    "static/media/celular_inpulse.png": "/static/media/celular_inpulse.aa9767e3172147ddde51.png",
+    "static/media/02.jpg": "/static/media/02.7f50916abc5a91284e71.jpg",
+    "static/media/brilia.png": "/static/media/brilia.216363020a26fda2beb5.png",
+    "static/media/kappesberg.png": "/static/media/kappesberg.82f302f0c7f5c97ff64e.png",
+    "static/media/Imagem4.jpg": "/static/media/Imagem4.40da18efe9b69cebd5b0.jpg",
+    "static/media/Imagem5.png": "/static/media/Imagem5.6bcb685fb470756aa604.png",
+    "static/media/Imagem1.jpg": "/static/media/Imagem1.c6e8cdd2faed6225bb4c.jpg",
+    "index.html": "/index.html",
+    "main.30145701.css.map": "/static/css/main.30145701.css.map",
+    "main.5fb112df.js.map": "/static/js/main.5fb112df.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30145701.css",
+    "static/js/main.5fb112df.js"
+  ]
+}

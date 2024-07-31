@@ -1,0 +1,42 @@
+
+.carousel-item {
+  text-align: center; /* Centraliza o conteúdo horizontalmente */
+  padding: 0 10px; /* Mantém o espaço ao redor de cada slide */
+}
+
+.customer-avatar {
+  border-radius: 50%;
+  width: 150px; /* Ajusta a largura da imagem conforme desejado */
+  height: 150px; /* Ajusta a altura da imagem conforme desejado */
+  object-fit: cover;
+  margin: 0 auto;
+  border: 3px solid #d6d6db; /* Adiciona uma borda à imagem */
+}
+
+.customer-name {
+  margin: 20px 0; /* Adiciona espaço entre a imagem e o nome */
+  color: #1e4363; /* Define a cor do texto para branco */
+}
+
+.customer-comment {
+  max-width: 300px; /* Limita a largura do comentário */
+  margin: 0 auto; /* Centraliza o comentário */
+  color: #000000; /* Define a cor do texto para branco */
+}
+
+.carousel-container {
+  position: relative; /* Define a posição como relativa para que o clip-path seja aplicado corretamente */
+  background-color: #fff; /* Define a cor de fundo azul */
+  padding: 40px 0; /* Aumenta o espaçamento na parte superior e inferior */
+}
+
+.carousel-container::before {
+  content: '';
+  position: absolute;
+  top: -20px; /* Ajusta a posição vertical do recorte */
+  left: 0;
+  width: 100%;
+  height: 100px; /* Define a altura do recorte */
+  background: #fff; /* Cor de fundo para combinar com o fundo do container */
+  clip-path: polygon(0 0, 100% 50%, 100% 100%, 0 100%); /* Define o formato do recorte */
+}
